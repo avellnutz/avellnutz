@@ -1,6 +1,6 @@
 <!-- i have no idea what to write, and it's painfully obvious. --> 
-### hello, i am ava!  i am 14 and i'm also new to all of this.  im here for fun and i hope to do some new things!
-*things i enjoy:*
+### hello, i am ava!  i am 14 and i'm new to all of this.  im here for fun and i hope to do some things!
+**things i enjoy:**
 - math memes
 - discord
 - engineering
@@ -12,7 +12,7 @@
 - art
 - playing clarinet & composing
 
-*things i especially enjoy:*
+**things i *especially* enjoy:**
 - being cool
 - speling
 - talking to inanimate objects
