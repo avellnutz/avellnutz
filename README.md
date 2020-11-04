@@ -1,16 +1,26 @@
-### Hi there 👋
+<!-- i have no idea what to write, and it's painfully obvious. --> 
+### hello!  i am 14 and i'm new to all of this.  im here for fun i hope to do some things!
+*things i enjoy:*
+- math memes
+- discord
+- engineering
+- designing
+- programming
+- python
+- javascript
+- learning new programming languages
+- art
+- playing clarinet & composing
 
-<!--
-**avellnutz/avellnutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*things i especially enjoy:*
+- being cool
+- speling
+- talking to inanimate objects
+- occasionally time travelling
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
