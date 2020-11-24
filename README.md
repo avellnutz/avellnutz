@@ -7,7 +7,7 @@
 - designing
 - programming
 - python
-- javascript
+- javascript and coffeescript
 - learning new programming languages
 - art
 - playing clarinet & composing
