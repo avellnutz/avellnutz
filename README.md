@@ -4,20 +4,12 @@
 - math memes
 - discord
 - engineering
-- designing
-- programming
-- python
-- javascript and coffeescript
-- learning new programming languages
 - art
+- programming
+- learning new programming languages
+- interested in esoteric programming languages
 - playing clarinet & composing
-
-**things i *especially* enjoy:**
-- being cool
 - speling
-- talking to inanimate objects
-- occasionally time travelling
-
 
 
 
